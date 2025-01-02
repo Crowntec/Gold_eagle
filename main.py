@@ -48,7 +48,7 @@ while True:
     for token in tokens:
         response = send_request(available_taps, count, token)
         print(f"Response for token {token}: {response}")
-        print(f"BOY BY CROWN PRINCE +2348077643940")
+        print(f"BOT BY CROWN PRINCE +2348077643940")
     
     # Wait for 16 minutes before repeating the process for all accounts
     print("Waiting for 16 minutes before repeating...")
